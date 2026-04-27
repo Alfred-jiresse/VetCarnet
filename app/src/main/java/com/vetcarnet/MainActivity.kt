@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             VetCarnetTheme {
                 RequestNotificationPermission()
-                VetCarnetApp()
+                VetCarnetMainApp()
             }
         }
     }
@@ -52,7 +52,7 @@ private fun RequestNotificationPermission() {
     }
 }
 
-// ─── Routes ───────────────────────────────────────────────────────────────────
+//  Routes
 
 private object Routes {
     const val LIST   = "animals"
@@ -64,10 +64,10 @@ private object Routes {
         if (id != null) "animals/form?animalId=$id" else "animals/form"
 }
 
-// ─── Navigation Host ──────────────────────────────────────────────────────────
+//  Navigation Host
 
 @Composable
-fun VetCarnetApp() {
+fun VetCarnetMainApp() {
     val navController = rememberNavController()
 
     NavHost(navController = navController, startDestination = Routes.LIST) {

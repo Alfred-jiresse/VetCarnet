@@ -2,6 +2,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
+    alias(libs.plugins.kotlin.serialization)
 }
 
 android {
@@ -18,8 +19,8 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
         // Supabase config — remplacez par vos vraies valeurs
-        buildConfigField("String", "SUPABASE_URL", "\"https://VOTRE_PROJECT_ID.supabase.co\"")
-        buildConfigField("String", "SUPABASE_ANON_KEY", "\"VOTRE_ANON_KEY\"")
+        buildConfigField("String", "SUPABASE_URL", "\"https://texyxwzbigexzixdowrs.supabase.co\"")
+        buildConfigField("String", "SUPABASE_ANON_KEY", "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRleHl4d3piaWdleHppeGRvd3JzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcyMjQzODIsImV4cCI6MjA5MjgwMDM4Mn0.nfLFcTYPfYliyo9Np4yrVeG4zI4NSAlIbGuNLom9SyQ\"")
     }
 
     buildTypes {
@@ -60,6 +61,7 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.material.icons.extended)
+    implementation(libs.androidx.ui.text.google.fonts)
 
     // Navigation Compose
     implementation(libs.androidx.navigation.compose)
