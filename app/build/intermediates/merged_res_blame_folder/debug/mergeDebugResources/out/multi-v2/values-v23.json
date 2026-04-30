@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vetcarnet.app-mergeDebugResources-69:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,754 @@
+-- Merging decision tree log ---
+provider#androidx.startup.InitializationProvider
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:38:9-47:20
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:9:9-17:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/AndroidManifest.xml:24:9-28:34
+MERGED from [androidx.startup:startup-runtime:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/AndroidManifest.xml:24:9-28:34
+	tools:node
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:42:13-31
+	android:authorities
+		INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:40:13-68
+	xmlns:tools
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:43:13-59
+	android:exported
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:39:13-67
+manifest
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:2:1-60:12
+MERGED from [androidx.navigation:navigation-common:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/1be1e957d7b6d043ac8100333de704c4/transformed/navigation-common-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/928224156f0420ef80a76cddb54462f1/transformed/navigation-runtime-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/f04f3d134c0ea9f37cb50d59d8d97c6a/transformed/navigation-common-ktx-2.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/8eb14e8565d1f0cf24210c5d03ac5f10/transformed/navigation-runtime-ktx-2.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/e2d5c88ee42ee0f4f67b50e17c799723/transformed/navigation-compose-2.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-permissions:0.37.0] /home/alfred/.gradle/caches/9.0.0/transforms/c9ad9c7df0f8b20157dabb1e9fb1be4c/transformed/accompanist-permissions-0.37.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/65a80ba6194f421c15f0e1a78524bdfd/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/e97f2376f2ffac58900c76f06ab2fe7f/transformed/activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /home/alfred/.gradle/caches/9.0.0/transforms/7d0924ec313a3c5849d896758dbec914/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/1a205de341bc960de9db103602d99a1c/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/ce4563cca35375444faf246abbc9d756/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/65f30f536e7430a27e121a3ba54302bc/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/431fc8a576bb07932db6e3c8451fe248/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/3b19ca0dbe23eecd53bdcc46fb17ab6e/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/ea278b240e1edc3b6dc4b924c760e77f/transformed/coil-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/fbddaae241e263cfc0d80508971bc605/transformed/coil-compose-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3d5fa8d72464fd0856bd813d036858e/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/24dc4ebf996eb4bbd27994313addeb4e/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/68185f0676466e383d505bff9059d3e7/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/b462e9e23f40f0bebfaaa1401faecf5a/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/be993cc48d418190d664ef51082637e9/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/342cb2c22b6985681958cf790e7a717b/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/937a06b863cbdee72e013f59c1778840/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/3d75ab37994585fb5120d752fc494206/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/9df9d78ebd44a14e9006d481ae7dff17/transformed/activity-compose-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.work:work-runtime-ktx:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/ef766b428a29bfb93b10331d9eeee33b/transformed/work-runtime-ktx-2.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/alfred/.gradle/caches/9.0.0/transforms/80bd574ea77fc107b755aea584627e1b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/alfred/.gradle/caches/9.0.0/transforms/60a20a79b582334362ceb2171ce881f4/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [io.github.jan-tennert.supabase:realtime-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/87d062be9cc1caaa5719762dbff532ad/transformed/realtime-kt-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/18d78d64ca03cd40b8198d7794b3590c/transformed/postgrest-kt-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:2:1-20:12
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:2:1-20:12
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/d8c80e64ebdbb9c3184e3d9f1a631886/transformed/supabase-kt-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/3ee630ce0f4b7b2399ec2bc5ea03ddc0/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/c487130842a4c6d69766d11cd93d62c4/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/9d28d802da969016cb4da1c6a34dd634/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt.coil3:coil-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/7920f3c749b7c7dd0ca6d04a278ab011/transformed/coil-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/4f7b5287229aea7e7b12de6048292cc2/transformed/coil-network-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/2f699f5b032e31ae17803a3cc75582be/transformed/coil-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/0554b4fdade29e48d558d095a3aac632/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/3b00cd6eed39f67a3e082b6a503219c2/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/768afcadd2a006bd250c9a35d3d150ea/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/94ed23be2c35b56b5e805eb1bc40ed16/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/d2d874fceaf5a6baa91abc1f5c7ab163/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/1df1060333b690e43d279c3a68470cde/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/a1390363878e061a43bfdd4476367543/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/f8e2a28df5251ca0daccf10bcd858723/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/9792ad51adc48913ef620be28852b229/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/851cdd1111f438112cf506dfcb7bb450/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.36.0] /home/alfred/.gradle/caches/9.0.0/transforms/bde920bdc927d4ccb1f93ce03910239e/transformed/accompanist-drawablepainter-0.36.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/d1e261c87e4d468a343cc2a11cfdf305/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-text-google-fonts:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/c1e717a1e8cea9b317d7afc06724a13c/transformed/ui-text-google-fonts-1.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/6b9efcaff8e6e000c452906f3f10d8f2/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/alfred/.gradle/caches/9.0.0/transforms/94e49599f48f62df3af0518b9b17da76/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/alfred/.gradle/caches/9.0.0/transforms/110a65fe23e4d671c05fc5544c571d62/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.8.0] /home/alfred/.gradle/caches/9.0.0/transforms/07e580e7b746bb8b2abf33a9cd3132c6/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/alfred/.gradle/caches/9.0.0/transforms/b3cd44812fedc4b16b6ad4eb23e7e40a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/alfred/.gradle/caches/9.0.0/transforms/d6fcd0b408c140badc21d90c5e682695/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/08be63cba7d2bdc55fea9ff7bc0ff93f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/44e5c07f42b431517c4aea1a897b775f/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/2999a0999e16274447ae16ffc317cf40/transformed/datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/9e0493dbd95be28e8d7b567bec1ae726/transformed/datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/ae2c464571e2ec93d1b6dcc403b4a080/transformed/datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/26edcfab3ae0e0b99330be0fceeb0396/transformed/multiplatform-settings-coroutines-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/2697a2d542c86f28ee3bd71c1adaefd4/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/ddfaf3e0d1c15ecedb34e587983df943/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/2a71978a8d54831962610893d152b28a/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/34cb8a41d2d0db12cf2ff7195bb89222/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/551525e89036930dcd1c0a6c782370c2/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/63c6124d17c95c2a1f762357b3b83506/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alfred/.gradle/caches/9.0.0/transforms/aa8121a3694f7996882d4ff35ba65935/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/alfred/.gradle/caches/9.0.0/transforms/c6cf6aa54a6cefa4f39083aa25e20590/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/alfred/.gradle/caches/9.0.0/transforms/f83d44ad33135ba05d15ad411c8d3a3f/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/8ac5fb6cd0f17a300c3fc1e3c2cc22df/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/b4b1a1c956238a5121bf333eef28fc75/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/alfred/.gradle/caches/9.0.0/transforms/3feb418879ece41d292c10b017f77bf9/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/8412cd8b132b64502ef5fb1c419ef2b3/transformed/multiplatform-settings-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] /home/alfred/.gradle/caches/9.0.0/transforms/4a10c3194f562ec97c2d2ba50856a95e/transformed/krypto-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [co.touchlab:kermit-android-debug:2.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/5fd9942fef883cde6f564f6c0c825213/transformed/kermit-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/37773fefb93aac5adb0dae3d094b7997/transformed/kermit-core-debug/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:25:5-81
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:15:22-62
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:16:22-73
+application
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:18:5-58:19
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:18:5-58:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:8:5-18:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:23:5-33:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alfred/.gradle/caches/9.0.0/transforms/aa8121a3694f7996882d4ff35ba65935/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alfred/.gradle/caches/9.0.0/transforms/aa8121a3694f7996882d4ff35ba65935/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:25:9-47
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:19:9-37
+activity#com.vetcarnet.MainActivity
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:windowSoftInputMode
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:30:13-55
+	android:exported
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:33:27-74
+receiver#com.vetcarnet.worker.BootReceiver
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:50:9-56:20
+	android:exported
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:51:13-48
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:53:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:54:25-76
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:44:13-46:52
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:34:13-36:52
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:46:17-49
+	android:name
+		ADDED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml:45:17-68
+uses-sdk
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-common:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/1be1e957d7b6d043ac8100333de704c4/transformed/navigation-common-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/1be1e957d7b6d043ac8100333de704c4/transformed/navigation-common-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/928224156f0420ef80a76cddb54462f1/transformed/navigation-runtime-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/928224156f0420ef80a76cddb54462f1/transformed/navigation-runtime-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/f04f3d134c0ea9f37cb50d59d8d97c6a/transformed/navigation-common-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/f04f3d134c0ea9f37cb50d59d8d97c6a/transformed/navigation-common-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/8eb14e8565d1f0cf24210c5d03ac5f10/transformed/navigation-runtime-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/8eb14e8565d1f0cf24210c5d03ac5f10/transformed/navigation-runtime-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/e2d5c88ee42ee0f4f67b50e17c799723/transformed/navigation-compose-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.5] /home/alfred/.gradle/caches/9.0.0/transforms/e2d5c88ee42ee0f4f67b50e17c799723/transformed/navigation-compose-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.37.0] /home/alfred/.gradle/caches/9.0.0/transforms/c9ad9c7df0f8b20157dabb1e9fb1be4c/transformed/accompanist-permissions-0.37.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.37.0] /home/alfred/.gradle/caches/9.0.0/transforms/c9ad9c7df0f8b20157dabb1e9fb1be4c/transformed/accompanist-permissions-0.37.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.activity:activity:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/65a80ba6194f421c15f0e1a78524bdfd/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/65a80ba6194f421c15f0e1a78524bdfd/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/e97f2376f2ffac58900c76f06ab2fe7f/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/e97f2376f2ffac58900c76f06ab2fe7f/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /home/alfred/.gradle/caches/9.0.0/transforms/7d0924ec313a3c5849d896758dbec914/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /home/alfred/.gradle/caches/9.0.0/transforms/7d0924ec313a3c5849d896758dbec914/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/1a205de341bc960de9db103602d99a1c/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/1a205de341bc960de9db103602d99a1c/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/ce4563cca35375444faf246abbc9d756/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/ce4563cca35375444faf246abbc9d756/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/65f30f536e7430a27e121a3ba54302bc/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/65f30f536e7430a27e121a3ba54302bc/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/431fc8a576bb07932db6e3c8451fe248/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/431fc8a576bb07932db6e3c8451fe248/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/3b19ca0dbe23eecd53bdcc46fb17ab6e/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/3b19ca0dbe23eecd53bdcc46fb17ab6e/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/ea278b240e1edc3b6dc4b924c760e77f/transformed/coil-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/ea278b240e1edc3b6dc4b924c760e77f/transformed/coil-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/fbddaae241e263cfc0d80508971bc605/transformed/coil-compose-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/fbddaae241e263cfc0d80508971bc605/transformed/coil-compose-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3d5fa8d72464fd0856bd813d036858e/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3d5fa8d72464fd0856bd813d036858e/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/24dc4ebf996eb4bbd27994313addeb4e/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/24dc4ebf996eb4bbd27994313addeb4e/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/68185f0676466e383d505bff9059d3e7/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/68185f0676466e383d505bff9059d3e7/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/b462e9e23f40f0bebfaaa1401faecf5a/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/b462e9e23f40f0bebfaaa1401faecf5a/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/be993cc48d418190d664ef51082637e9/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/be993cc48d418190d664ef51082637e9/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/342cb2c22b6985681958cf790e7a717b/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/342cb2c22b6985681958cf790e7a717b/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/937a06b863cbdee72e013f59c1778840/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/937a06b863cbdee72e013f59c1778840/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/3d75ab37994585fb5120d752fc494206/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/3d75ab37994585fb5120d752fc494206/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/9df9d78ebd44a14e9006d481ae7dff17/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /home/alfred/.gradle/caches/9.0.0/transforms/9df9d78ebd44a14e9006d481ae7dff17/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/ef766b428a29bfb93b10331d9eeee33b/transformed/work-runtime-ktx-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/ef766b428a29bfb93b10331d9eeee33b/transformed/work-runtime-ktx-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/alfred/.gradle/caches/9.0.0/transforms/80bd574ea77fc107b755aea584627e1b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/alfred/.gradle/caches/9.0.0/transforms/80bd574ea77fc107b755aea584627e1b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/alfred/.gradle/caches/9.0.0/transforms/60a20a79b582334362ceb2171ce881f4/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/alfred/.gradle/caches/9.0.0/transforms/60a20a79b582334362ceb2171ce881f4/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [io.github.jan-tennert.supabase:realtime-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/87d062be9cc1caaa5719762dbff532ad/transformed/realtime-kt-debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:realtime-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/87d062be9cc1caaa5719762dbff532ad/transformed/realtime-kt-debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/18d78d64ca03cd40b8198d7794b3590c/transformed/postgrest-kt-debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/18d78d64ca03cd40b8198d7794b3590c/transformed/postgrest-kt-debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/d8c80e64ebdbb9c3184e3d9f1a631886/transformed/supabase-kt-debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/d8c80e64ebdbb9c3184e3d9f1a631886/transformed/supabase-kt-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/3ee630ce0f4b7b2399ec2bc5ea03ddc0/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/3ee630ce0f4b7b2399ec2bc5ea03ddc0/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/c487130842a4c6d69766d11cd93d62c4/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/c487130842a4c6d69766d11cd93d62c4/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/9d28d802da969016cb4da1c6a34dd634/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/9d28d802da969016cb4da1c6a34dd634/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt.coil3:coil-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/7920f3c749b7c7dd0ca6d04a278ab011/transformed/coil-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/7920f3c749b7c7dd0ca6d04a278ab011/transformed/coil-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/4f7b5287229aea7e7b12de6048292cc2/transformed/coil-network-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/4f7b5287229aea7e7b12de6048292cc2/transformed/coil-network-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/2f699f5b032e31ae17803a3cc75582be/transformed/coil-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-core-android:3.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/2f699f5b032e31ae17803a3cc75582be/transformed/coil-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/0554b4fdade29e48d558d095a3aac632/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/0554b4fdade29e48d558d095a3aac632/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/3b00cd6eed39f67a3e082b6a503219c2/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/3b00cd6eed39f67a3e082b6a503219c2/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/768afcadd2a006bd250c9a35d3d150ea/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/768afcadd2a006bd250c9a35d3d150ea/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/94ed23be2c35b56b5e805eb1bc40ed16/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/94ed23be2c35b56b5e805eb1bc40ed16/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/d2d874fceaf5a6baa91abc1f5c7ab163/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/d2d874fceaf5a6baa91abc1f5c7ab163/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/1df1060333b690e43d279c3a68470cde/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/1df1060333b690e43d279c3a68470cde/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/a1390363878e061a43bfdd4476367543/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/a1390363878e061a43bfdd4476367543/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/f8e2a28df5251ca0daccf10bcd858723/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/f8e2a28df5251ca0daccf10bcd858723/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/9792ad51adc48913ef620be28852b229/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/9792ad51adc48913ef620be28852b229/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/851cdd1111f438112cf506dfcb7bb450/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/851cdd1111f438112cf506dfcb7bb450/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.36.0] /home/alfred/.gradle/caches/9.0.0/transforms/bde920bdc927d4ccb1f93ce03910239e/transformed/accompanist-drawablepainter-0.36.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.36.0] /home/alfred/.gradle/caches/9.0.0/transforms/bde920bdc927d4ccb1f93ce03910239e/transformed/accompanist-drawablepainter-0.36.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/d1e261c87e4d468a343cc2a11cfdf305/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/d1e261c87e4d468a343cc2a11cfdf305/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text-google-fonts:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/c1e717a1e8cea9b317d7afc06724a13c/transformed/ui-text-google-fonts-1.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-google-fonts:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/c1e717a1e8cea9b317d7afc06724a13c/transformed/ui-text-google-fonts-1.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/6b9efcaff8e6e000c452906f3f10d8f2/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/6b9efcaff8e6e000c452906f3f10d8f2/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/alfred/.gradle/caches/9.0.0/transforms/94e49599f48f62df3af0518b9b17da76/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/alfred/.gradle/caches/9.0.0/transforms/94e49599f48f62df3af0518b9b17da76/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/alfred/.gradle/caches/9.0.0/transforms/110a65fe23e4d671c05fc5544c571d62/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/alfred/.gradle/caches/9.0.0/transforms/110a65fe23e4d671c05fc5544c571d62/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /home/alfred/.gradle/caches/9.0.0/transforms/07e580e7b746bb8b2abf33a9cd3132c6/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /home/alfred/.gradle/caches/9.0.0/transforms/07e580e7b746bb8b2abf33a9cd3132c6/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/alfred/.gradle/caches/9.0.0/transforms/b3cd44812fedc4b16b6ad4eb23e7e40a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/alfred/.gradle/caches/9.0.0/transforms/b3cd44812fedc4b16b6ad4eb23e7e40a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/alfred/.gradle/caches/9.0.0/transforms/d6fcd0b408c140badc21d90c5e682695/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/alfred/.gradle/caches/9.0.0/transforms/d6fcd0b408c140badc21d90c5e682695/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/08be63cba7d2bdc55fea9ff7bc0ff93f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/08be63cba7d2bdc55fea9ff7bc0ff93f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/44e5c07f42b431517c4aea1a897b775f/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/44e5c07f42b431517c4aea1a897b775f/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/2999a0999e16274447ae16ffc317cf40/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/2999a0999e16274447ae16ffc317cf40/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/9e0493dbd95be28e8d7b567bec1ae726/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/9e0493dbd95be28e8d7b567bec1ae726/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/ae2c464571e2ec93d1b6dcc403b4a080/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.2] /home/alfred/.gradle/caches/9.0.0/transforms/ae2c464571e2ec93d1b6dcc403b4a080/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/26edcfab3ae0e0b99330be0fceeb0396/transformed/multiplatform-settings-coroutines-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/26edcfab3ae0e0b99330be0fceeb0396/transformed/multiplatform-settings-coroutines-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/2697a2d542c86f28ee3bd71c1adaefd4/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/2697a2d542c86f28ee3bd71c1adaefd4/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/ddfaf3e0d1c15ecedb34e587983df943/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/ddfaf3e0d1c15ecedb34e587983df943/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/2a71978a8d54831962610893d152b28a/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/2a71978a8d54831962610893d152b28a/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/34cb8a41d2d0db12cf2ff7195bb89222/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/34cb8a41d2d0db12cf2ff7195bb89222/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/551525e89036930dcd1c0a6c782370c2/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/551525e89036930dcd1c0a6c782370c2/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/63c6124d17c95c2a1f762357b3b83506/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/63c6124d17c95c2a1f762357b3b83506/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alfred/.gradle/caches/9.0.0/transforms/aa8121a3694f7996882d4ff35ba65935/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alfred/.gradle/caches/9.0.0/transforms/aa8121a3694f7996882d4ff35ba65935/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/alfred/.gradle/caches/9.0.0/transforms/c6cf6aa54a6cefa4f39083aa25e20590/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/alfred/.gradle/caches/9.0.0/transforms/c6cf6aa54a6cefa4f39083aa25e20590/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/alfred/.gradle/caches/9.0.0/transforms/f83d44ad33135ba05d15ad411c8d3a3f/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/alfred/.gradle/caches/9.0.0/transforms/f83d44ad33135ba05d15ad411c8d3a3f/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/8ac5fb6cd0f17a300c3fc1e3c2cc22df/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alfred/.gradle/caches/9.0.0/transforms/8ac5fb6cd0f17a300c3fc1e3c2cc22df/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/b4b1a1c956238a5121bf333eef28fc75/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/b4b1a1c956238a5121bf333eef28fc75/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/alfred/.gradle/caches/9.0.0/transforms/3feb418879ece41d292c10b017f77bf9/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/alfred/.gradle/caches/9.0.0/transforms/3feb418879ece41d292c10b017f77bf9/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/8412cd8b132b64502ef5fb1c419ef2b3/transformed/multiplatform-settings-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/8412cd8b132b64502ef5fb1c419ef2b3/transformed/multiplatform-settings-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] /home/alfred/.gradle/caches/9.0.0/transforms/4a10c3194f562ec97c2d2ba50856a95e/transformed/krypto-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] /home/alfred/.gradle/caches/9.0.0/transforms/4a10c3194f562ec97c2d2ba50856a95e/transformed/krypto-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [co.touchlab:kermit-android-debug:2.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/5fd9942fef883cde6f564f6c0c825213/transformed/kermit-debug/AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-android-debug:2.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/5fd9942fef883cde6f564f6c0c825213/transformed/kermit-debug/AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/37773fefb93aac5adb0dae3d094b7997/transformed/kermit-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.4] /home/alfred/.gradle/caches/9.0.0/transforms/37773fefb93aac5adb0dae3d094b7997/transformed/kermit-core-debug/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:26:22-74
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/AndroidManifest.xml:140:25-85
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#io.github.jan.supabase.storage.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/ca78a23e697007393029d1670349b093/transformed/storage-kt-debug/AndroidManifest.xml:15:17-82
+meta-data#io.github.jan.supabase.auth.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:auth-kt-android-debug:3.0.2] /home/alfred/.gradle/caches/9.0.0/transforms/b77173e01850c8b916db23f7e9ab9d20/transformed/auth-kt-debug/AndroidManifest.xml:15:17-79
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:24:13-63
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.vetcarnet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.vetcarnet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+meta-data#com.russhwolf.settings.SettingsInitializer
+ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.2.0] /home/alfred/.gradle/caches/9.0.0/transforms/bd6ac043c40a6efa7549bef27ddacbc6/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:30:17-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:25-92

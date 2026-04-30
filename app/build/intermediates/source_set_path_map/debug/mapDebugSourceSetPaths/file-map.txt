@@ -1,0 +1,74 @@
+com.vetcarnet.app-lifecycle-runtime-release-0 /home/alfred/.gradle/caches/9.0.0/transforms/0554b4fdade29e48d558d095a3aac632/transformed/lifecycle-runtime-release/res
+com.vetcarnet.app-browser-1.8.0-1 /home/alfred/.gradle/caches/9.0.0/transforms/07e580e7b746bb8b2abf33a9cd3132c6/transformed/browser-1.8.0/res
+com.vetcarnet.app-customview-poolingcontainer-1.0.0-2 /home/alfred/.gradle/caches/9.0.0/transforms/08be63cba7d2bdc55fea9ff7bc0ff93f/transformed/customview-poolingcontainer-1.0.0/res
+com.vetcarnet.app-appcompat-resources-1.7.0-3 /home/alfred/.gradle/caches/9.0.0/transforms/110a65fe23e4d671c05fc5544c571d62/transformed/appcompat-resources-1.7.0/res
+com.vetcarnet.app-material-release-4 /home/alfred/.gradle/caches/9.0.0/transforms/1a205de341bc960de9db103602d99a1c/transformed/material-release/res
+com.vetcarnet.app-navigation-common-2.8.5-5 /home/alfred/.gradle/caches/9.0.0/transforms/1be1e957d7b6d043ac8100333de704c4/transformed/navigation-common-2.8.5/res
+com.vetcarnet.app-lifecycle-runtime-compose-release-6 /home/alfred/.gradle/caches/9.0.0/transforms/1df1060333b690e43d279c3a68470cde/transformed/lifecycle-runtime-compose-release/res
+com.vetcarnet.app-startup-runtime-1.2.0-7 /home/alfred/.gradle/caches/9.0.0/transforms/215d3492fe295f73e979f45ec1624f53/transformed/startup-runtime-1.2.0/res
+com.vetcarnet.app-lifecycle-process-2.8.7-8 /home/alfred/.gradle/caches/9.0.0/transforms/23def2691a42015a7e3be7e826f27c68/transformed/lifecycle-process-2.8.7/res
+com.vetcarnet.app-ui-tooling-data-release-9 /home/alfred/.gradle/caches/9.0.0/transforms/24dc4ebf996eb4bbd27994313addeb4e/transformed/ui-tooling-data-release/res
+com.vetcarnet.app-runtime-saveable-release-10 /home/alfred/.gradle/caches/9.0.0/transforms/2697a2d542c86f28ee3bd71c1adaefd4/transformed/runtime-saveable-release/res
+com.vetcarnet.app-datastore-core-release-11 /home/alfred/.gradle/caches/9.0.0/transforms/2999a0999e16274447ae16ffc317cf40/transformed/datastore-core-release/res
+com.vetcarnet.app-room-ktx-2.6.1-12 /home/alfred/.gradle/caches/9.0.0/transforms/2a71978a8d54831962610893d152b28a/transformed/room-ktx-2.6.1/res
+com.vetcarnet.app-emoji2-1.3.0-13 /home/alfred/.gradle/caches/9.0.0/transforms/2b497ef2a6c3f1f7a0f210096eb86b4c/transformed/emoji2-1.3.0/res
+com.vetcarnet.app-coil-core-release-14 /home/alfred/.gradle/caches/9.0.0/transforms/2f699f5b032e31ae17803a3cc75582be/transformed/coil-core-release/res
+com.vetcarnet.app-ui-text-release-15 /home/alfred/.gradle/caches/9.0.0/transforms/342cb2c22b6985681958cf790e7a717b/transformed/ui-text-release/res
+com.vetcarnet.app-annotation-experimental-1.4.1-16 /home/alfred/.gradle/caches/9.0.0/transforms/34cb8a41d2d0db12cf2ff7195bb89222/transformed/annotation-experimental-1.4.1/res
+com.vetcarnet.app-lifecycle-service-2.8.7-17 /home/alfred/.gradle/caches/9.0.0/transforms/3b00cd6eed39f67a3e082b6a503219c2/transformed/lifecycle-service-2.8.7/res
+com.vetcarnet.app-foundation-layout-release-18 /home/alfred/.gradle/caches/9.0.0/transforms/3b19ca0dbe23eecd53bdcc46fb17ab6e/transformed/foundation-layout-release/res
+com.vetcarnet.app-ui-graphics-release-19 /home/alfred/.gradle/caches/9.0.0/transforms/3d75ab37994585fb5120d752fc494206/transformed/ui-graphics-release/res
+com.vetcarnet.app-lifecycle-livedata-core-ktx-2.8.7-20 /home/alfred/.gradle/caches/9.0.0/transforms/3ee630ce0f4b7b2399ec2bc5ea03ddc0/transformed/lifecycle-livedata-core-ktx-2.8.7/res
+com.vetcarnet.app-animation-release-21 /home/alfred/.gradle/caches/9.0.0/transforms/431fc8a576bb07932db6e3c8451fe248/transformed/animation-release/res
+com.vetcarnet.app-core-ktx-1.15.0-22 /home/alfred/.gradle/caches/9.0.0/transforms/44e5c07f42b431517c4aea1a897b775f/transformed/core-ktx-1.15.0/res
+com.vetcarnet.app-tracing-1.2.0-23 /home/alfred/.gradle/caches/9.0.0/transforms/551525e89036930dcd1c0a6c782370c2/transformed/tracing-1.2.0/res
+com.vetcarnet.app-core-1.15.0-24 /home/alfred/.gradle/caches/9.0.0/transforms/5692c5acd06ea60d19da14482af1ba32/transformed/core-1.15.0/res
+com.vetcarnet.app-work-runtime-2.10.0-25 /home/alfred/.gradle/caches/9.0.0/transforms/5be38335b9fa2be951a1312286ebac59/transformed/work-runtime-2.10.0/res
+com.vetcarnet.app-ui-test-manifest-1.7.6-26 /home/alfred/.gradle/caches/9.0.0/transforms/5c273595596342eb8b59cb656c192684/transformed/ui-test-manifest-1.7.6/res
+com.vetcarnet.app-savedstate-1.2.1-27 /home/alfred/.gradle/caches/9.0.0/transforms/60a20a79b582334362ceb2171ce881f4/transformed/savedstate-1.2.1/res
+com.vetcarnet.app-tracing-ktx-1.2.0-28 /home/alfred/.gradle/caches/9.0.0/transforms/63c6124d17c95c2a1f762357b3b83506/transformed/tracing-ktx-1.2.0/res
+com.vetcarnet.app-activity-1.9.3-29 /home/alfred/.gradle/caches/9.0.0/transforms/65a80ba6194f421c15f0e1a78524bdfd/transformed/activity-1.9.3/res
+com.vetcarnet.app-material-ripple-release-30 /home/alfred/.gradle/caches/9.0.0/transforms/65f30f536e7430a27e121a3ba54302bc/transformed/material-ripple-release/res
+com.vetcarnet.app-ui-unit-release-31 /home/alfred/.gradle/caches/9.0.0/transforms/68185f0676466e383d505bff9059d3e7/transformed/ui-unit-release/res
+com.vetcarnet.app-lifecycle-livedata-2.8.7-32 /home/alfred/.gradle/caches/9.0.0/transforms/768afcadd2a006bd250c9a35d3d150ea/transformed/lifecycle-livedata-2.8.7/res
+com.vetcarnet.app-material3-release-33 /home/alfred/.gradle/caches/9.0.0/transforms/7d0924ec313a3c5849d896758dbec914/transformed/material3-release/res
+com.vetcarnet.app-savedstate-ktx-1.2.1-34 /home/alfred/.gradle/caches/9.0.0/transforms/80bd574ea77fc107b755aea584627e1b/transformed/savedstate-ktx-1.2.1/res
+com.vetcarnet.app-material-icons-core-release-35 /home/alfred/.gradle/caches/9.0.0/transforms/851cdd1111f438112cf506dfcb7bb450/transformed/material-icons-core-release/res
+com.vetcarnet.app-navigation-runtime-ktx-2.8.5-36 /home/alfred/.gradle/caches/9.0.0/transforms/8eb14e8565d1f0cf24210c5d03ac5f10/transformed/navigation-runtime-ktx-2.8.5/res
+com.vetcarnet.app-navigation-runtime-2.8.5-37 /home/alfred/.gradle/caches/9.0.0/transforms/928224156f0420ef80a76cddb54462f1/transformed/navigation-runtime-2.8.5/res
+com.vetcarnet.app-ui-tooling-preview-release-38 /home/alfred/.gradle/caches/9.0.0/transforms/937a06b863cbdee72e013f59c1778840/transformed/ui-tooling-preview-release/res
+com.vetcarnet.app-graphics-path-1.0.1-39 /home/alfred/.gradle/caches/9.0.0/transforms/94e49599f48f62df3af0518b9b17da76/transformed/graphics-path-1.0.1/res
+com.vetcarnet.app-lifecycle-viewmodel-savedstate-2.8.7-40 /home/alfred/.gradle/caches/9.0.0/transforms/94ed23be2c35b56b5e805eb1bc40ed16/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.vetcarnet.app-material-icons-extended-release-41 /home/alfred/.gradle/caches/9.0.0/transforms/9792ad51adc48913ef620be28852b229/transformed/material-icons-extended-release/res
+com.vetcarnet.app-lifecycle-viewmodel-release-42 /home/alfred/.gradle/caches/9.0.0/transforms/9d28d802da969016cb4da1c6a34dd634/transformed/lifecycle-viewmodel-release/res
+com.vetcarnet.app-activity-compose-1.9.3-43 /home/alfred/.gradle/caches/9.0.0/transforms/9df9d78ebd44a14e9006d481ae7dff17/transformed/activity-compose-1.9.3/res
+com.vetcarnet.app-datastore-release-44 /home/alfred/.gradle/caches/9.0.0/transforms/9e0493dbd95be28e8d7b567bec1ae726/transformed/datastore-release/res
+com.vetcarnet.app-lifecycle-runtime-ktx-release-45 /home/alfred/.gradle/caches/9.0.0/transforms/a1390363878e061a43bfdd4476367543/transformed/lifecycle-runtime-ktx-release/res
+com.vetcarnet.app-datastore-preferences-release-46 /home/alfred/.gradle/caches/9.0.0/transforms/ae2c464571e2ec93d1b6dcc403b4a080/transformed/datastore-preferences-release/res
+com.vetcarnet.app-ui-geometry-release-47 /home/alfred/.gradle/caches/9.0.0/transforms/b462e9e23f40f0bebfaaa1401faecf5a/transformed/ui-geometry-release/res
+com.vetcarnet.app-core-runtime-2.2.0-48 /home/alfred/.gradle/caches/9.0.0/transforms/b4b1a1c956238a5121bf333eef28fc75/transformed/core-runtime-2.2.0/res
+com.vetcarnet.app-ui-util-release-49 /home/alfred/.gradle/caches/9.0.0/transforms/be993cc48d418190d664ef51082637e9/transformed/ui-util-release/res
+com.vetcarnet.app-room-runtime-2.6.1-50 /home/alfred/.gradle/caches/9.0.0/transforms/c06324516dd75b4926b1f2f6d5586dc2/transformed/room-runtime-2.6.1/res
+com.vetcarnet.app-ui-text-google-fonts-1.7.6-51 /home/alfred/.gradle/caches/9.0.0/transforms/c1e717a1e8cea9b317d7afc06724a13c/transformed/ui-text-google-fonts-1.7.6/res
+com.vetcarnet.app-lifecycle-livedata-core-2.8.7-52 /home/alfred/.gradle/caches/9.0.0/transforms/c487130842a4c6d69766d11cd93d62c4/transformed/lifecycle-livedata-core-2.8.7/res
+com.vetcarnet.app-sqlite-framework-2.4.0-53 /home/alfred/.gradle/caches/9.0.0/transforms/c6cf6aa54a6cefa4f39083aa25e20590/transformed/sqlite-framework-2.4.0/res
+com.vetcarnet.app-animation-core-release-54 /home/alfred/.gradle/caches/9.0.0/transforms/ce4563cca35375444faf246abbc9d756/transformed/animation-core-release/res
+com.vetcarnet.app-ui-release-55 /home/alfred/.gradle/caches/9.0.0/transforms/d1e261c87e4d468a343cc2a11cfdf305/transformed/ui-release/res
+com.vetcarnet.app-lifecycle-viewmodel-ktx-2.8.7-56 /home/alfred/.gradle/caches/9.0.0/transforms/d2d874fceaf5a6baa91abc1f5c7ab163/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.vetcarnet.app-profileinstaller-1.4.1-57 /home/alfred/.gradle/caches/9.0.0/transforms/d82cdcc71f9ace6ab04b4ca4c1127d06/transformed/profileinstaller-1.4.1/res
+com.vetcarnet.app-runtime-release-58 /home/alfred/.gradle/caches/9.0.0/transforms/ddfaf3e0d1c15ecedb34e587983df943/transformed/runtime-release/res
+com.vetcarnet.app-navigation-compose-2.8.5-59 /home/alfred/.gradle/caches/9.0.0/transforms/e2d5c88ee42ee0f4f67b50e17c799723/transformed/navigation-compose-2.8.5/res
+com.vetcarnet.app-activity-ktx-1.9.3-60 /home/alfred/.gradle/caches/9.0.0/transforms/e97f2376f2ffac58900c76f06ab2fe7f/transformed/activity-ktx-1.9.3/res
+com.vetcarnet.app-work-runtime-ktx-2.10.0-61 /home/alfred/.gradle/caches/9.0.0/transforms/ef766b428a29bfb93b10331d9eeee33b/transformed/work-runtime-ktx-2.10.0/res
+com.vetcarnet.app-navigation-common-ktx-2.8.5-62 /home/alfred/.gradle/caches/9.0.0/transforms/f04f3d134c0ea9f37cb50d59d8d97c6a/transformed/navigation-common-ktx-2.8.5/res
+com.vetcarnet.app-foundation-release-63 /home/alfred/.gradle/caches/9.0.0/transforms/f3d5fa8d72464fd0856bd813d036858e/transformed/foundation-release/res
+com.vetcarnet.app-ui-tooling-release-64 /home/alfred/.gradle/caches/9.0.0/transforms/f3f2d61113442514966da381430230ef/transformed/ui-tooling-release/res
+com.vetcarnet.app-sqlite-2.4.0-65 /home/alfred/.gradle/caches/9.0.0/transforms/f83d44ad33135ba05d15ad411c8d3a3f/transformed/sqlite-2.4.0/res
+com.vetcarnet.app-lifecycle-viewmodel-compose-release-66 /home/alfred/.gradle/caches/9.0.0/transforms/f8e2a28df5251ca0daccf10bcd858723/transformed/lifecycle-viewmodel-compose-release/res
+com.vetcarnet.app-pngs-67 /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/build/generated/res/pngs/debug
+com.vetcarnet.app-resValues-68 /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/build/generated/res/resValues/debug
+com.vetcarnet.app-packageDebugResources-69 /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.vetcarnet.app-packageDebugResources-70 /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.vetcarnet.app-debug-71 /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.vetcarnet.app-debug-72 /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/debug/res
+com.vetcarnet.app-main-73 /home/alfred/Documents/Projects/mobile developpement/VetCarnet/app/src/main/res
